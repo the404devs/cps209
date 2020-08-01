@@ -1,0 +1,6 @@
+The TreeSet class arranges its elements in sorted order.
+
+In order to use a TreeSet, the element should implement the Comparable 
+interface.
+
+You can also construct a TreeSet with a Comparator.

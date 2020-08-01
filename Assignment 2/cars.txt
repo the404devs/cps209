@@ -1,0 +1,25 @@
+Toyota       blue    SEDAN     GAS_ENGINE      9.5  500 2WD 25000
+Honda        red     SPORTS    GAS_ENGINE      9.2  450 2WD 30000
+Kia          white   MINIVAN   GAS_ENGINE      9.7  550 2WD 20000
+BMW          black   SEDAN     GAS_ENGINE      9.6  600 AWD 55000
+Tesla        red     SEDAN     ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy        red     MINIVAN   GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt    green   SEDAN     ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley      black   SEDAN     GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf   green   SEDAN     ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+FlameRunner  orange  MOTORBIKE GAS_ENGINE      2.6  900 2WD 900000
+JetBubble    blue    MOTORBIKE ELECTRIC_MOTOR  9.9  200 2WD 100    35
+RallyRomper  grey    TRUCK     GAS_ENGINE      3.6  854 AWD 80000
+Quacker      yellow  MOTORBIKE GAS_ENGINE      7.6  628 2WD 65480
+Magikruiser  magenta MOTORBIKE GAS_ENGINE      6.4  652 2WD 84510
+WildWing    brown   SEDAN     GAS_ENGINE      7.8  700 2WD 22540
+MachBike    orange  MOTORBIKE GAS_ENGINE      7.2  890 2WD 31540
+Jetsetter    purple  SEDAN     ELECTRIC_MOTOR  8.6  500 AWD 12000  200
+Spear        white   MOTORBIKE GAS_ENGINE      6.3  802 2WD 21560
+Phantom      black   MOTORBIKE GAS_ENGINE      6.6  604 2WD 14200
+FlameFlyer  green   SPORTS    GAS_ENGINE      7.5  706 AWD 12500
+Sneakster    cyan    MOTORBIKE ELECTRIC_MOTOR  8.2  750 2WD 21500  50
+BabyBooster red     N/A       GAS_ENGINE      0.0  610 2WD 21870
+BulletBike  black   MOTORBIKE GAS_ENGINE      7.9  408 2WD 32480
+ZipZip      pink    MOTORBIKE GAS_ENGINE      8.2  780 2WD 35040
+Offroader    purple  SUV       GAS_ENGINE      8.4  505 AWD 51025
